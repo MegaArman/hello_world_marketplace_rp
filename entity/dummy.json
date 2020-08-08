@@ -1,0 +1,20 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "data_dummy:value",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"geometry": {
+				"default": "geometry.dummy"
+			},
+			"render_controllers": [
+				"controller.render.dummy"
+			],
+			"textures": {
+				"default": "textures/entity/dummy"
+			}
+		}
+	}
+}

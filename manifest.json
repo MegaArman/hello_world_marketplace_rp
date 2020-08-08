@@ -1,0 +1,18 @@
+{
+   "format_version" : 1,
+   "header" : {
+      "description" : "pack that demonstrates features usable in marketplace",
+      "name" : "hello_world_rp",
+      "platform_locked" : false,
+      "uuid" : "41de9cc5-b0ed-4ad3-bdc8-948b2db5ee9f",
+      "version" : [ 0, 0, 0 ]
+   },
+   "modules" : [
+      {
+         "description" : "",
+         "type" : "resources",
+         "uuid" : "bef77756-d502-4a8b-86a9-bfaa5817ef25",
+         "version" : [ 0, 0, 0 ]
+      }
+   ]
+}
